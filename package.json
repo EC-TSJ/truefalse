@@ -1,0 +1,17 @@
+{
+  "name": "singleton.pkg",
+  "version": "0.0.1",
+  "description": "Singleton utility",
+  "main": "tf.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "tf.ts"
+  ],
+  "keywords": [
+    "singleton"
+  ],
+  "author": "ec-tsj",
+  "license": "MIT"
+}
